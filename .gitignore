@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
